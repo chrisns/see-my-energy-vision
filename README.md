@@ -20,7 +20,7 @@ Examples of inefficient behaviour you might be accustomed to:
 
 > "My team has so many niggles, what should I fix first?
 
-... is a really hard to answer, as they stand those problems are totally unquantifiable to how much they're really effecting your efficiency, and what you should dedicate your attention to is subjective; and that is of course assuming that you have actually identified all the issues, we accept none of us are perfect - you might even find that your part of the problem!
+... is a really hard to answer, as they stand those problems are totally unquantifiable to how much they're really effecting your efficiency, and what you should dedicate your attention to is subjective; and that is of course assuming that you have actually identified all the issues, we accept none of us are perfect - you might even find that you're part of the problem!
 
 Hopefully using this will give you and your team space and time to reflect on how you work together and give you credible evidence where you need to justify a change to your management/customers/peers/suppliers in how you interact with them.
 
