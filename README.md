@@ -51,4 +51,4 @@ No, we will develop this like software that you're used to, we'll publish fixed 
 
 ## "I've got a great idea"
 
-Amazing, we'd ♥️ to hear it! Please raise an issue in github, we'll soon have a slack team too!
+Amazing, we'd ♥️ to hear it! Please raise an issue in github, or come [talk to us on slack](https://join.slack.com/t/need-a-name-workspace/shared_invite/zt-f6s0bodx-_XDLTbZBGOMk4~TS5x7kTQ)
